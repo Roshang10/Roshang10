@@ -1,0 +1,157 @@
+# Online Jewelery Store #
+
+\begin {pseudocode}{>Roshan Ghimeray>}{<UX Interface>}
+	User lunches the applications \\
+\ IF <user browser cookies is set to disable> \ THEN <prompt user to enable cookies>
+	\ELSE <disbale feature that requires cookies>
+\ IF conditions are true
+\ THEN <let user access the application
+\begin
+	<application prompt user for registration to access gallery>
+\ IF user declines
+	\ FOR <user> \ GETS <back to homepage> \DO <Registration>
+\ IF user decides to registration
+	<Application do the following>
+		{Direct user for Personal information}
+		<let user decide>
+\WHILE <list valid charaters for user-id>
+	to verify <true> value
+\ THEN Run IsNumeric() function to validate "TRUE" OR "FALSE"
+	\ IF user condition is "TRUE"
+		\THEN <Process user information> 
+	Application \begin storing data for current season \\
+\begin {center.minipage} framework for user-senstive information to encrypted data
+
+-----------------------------------------------------------------------------------------------------------------------------------
+# Application automaticaly saves current season, for auto-population #
+-----------------------------------------------------------------------------------------------------------------------------------
+
+\THEN
+	<Prepare confrimation to be sent to the user>;
+\WHILE <including web format .webP file> 
+		\DO <send within 24hr window>
+\ IF user (<declines>)
+	ask for <viladation> \UNTIL <user confirmations>
+\ IF user <agree>
+	\THEN <let user complete registration>
+DO IF (user complete task)
+		\THEN (Let user browse gallery)
+\ IF (user want to modify filter == True)
+	\THEN <allow>
+\ IF (user) finds item
+	\WHILE <want to make changes>
+		\ let user make changes < "True"
+\THEN >prompt user to customization page for user modification<
+	\WHILE "storing data"
+\Let User "acess augmentated models"
+		\WHILE <rendering "3D" object Interface>
+\ Let User (change color platte)
+	Only if <available>
+		\THEN <load color selection>
+	\Else <asend more time>
+\THEN (let user add items to cart)
+	\begin
+	"auto-saving session"
+\ THEN let user acess "items added" display
+	\IF user exits application
+ENDWHILE;
+	\BEGIN
+		send user email notification\\
+		include display portion of the item\\
+		include store logo within the email formatt\\
+		includ breif introductory subline\\
+		includ reminder "item left on cart"\\
+		filter entire text body with font "arial"\\
+		make headings "bold"\\
+		apply font size to =>11\\
+		includ hyperlink to return to user account logged in\\
+\IF user "responds"
+	\THEN prompt user with "hyperlink"
+\ELSE send reminder within another 24hr window;
+	\IF User wants to add more item
+		direct user to "gallery" grid
+\THEN suggest similar stone/shape
+	\ELSE let user respond back to added item display
+\THEN 
+	<auto-save session>
+\THEN 
+	let user enter personal information
+	\ELSE 
+		<suggest user for auto-fill option>
+\IF user selects "auto-fill"
+	change the value to "True"
+		<auto-fill> user personal information
+\THEN
+	let = user Process to "billing + shipping";
+\THEN
+	\BEGIN
+		check for valid address\\
+		check if address is = "True"\\
+		highlight misspelled and suggest "replacement"\\
+\IF conditions is "TRUE"
+	\THEN suggest "If billing address is same as shipping address"
+		\WHILE
+			>auto-save session<
+\LET user decide payment option
+	\THEN
+		suggest payment option
+\LET user pick option
+	\IF user continues within buit-in loan application
+\ELSE 
+	IF user decides to pay with (debit card or credit)
+	\THEN display (credit or debit)
+		deploy suggestion to auto-save user-senstive information
+\IF "user" choose finacial payment type
+	\THEN Prompt user to buit_in application
+\LET user auto-fill personal information
+	\ check for misspelled\\
+				user personal infromation\\
+	\THEN let user fill-in social security 
+		display fill-in box
+\THEN run background check with user InterACTIVE "disabled"
+	verify \IF user meets the following
+				(600 <= 720) \GET.rate {2.1%}\\
+				(590 <= 600) \GET.rate {3.5%}\\
+				(490 <= 590) \GET.rate {4.9%}\\
+\IF user doesn't meet the following <credit score> criteria
+	\THEN 
+		Application display following conditions
+	\BEGIN
+		"Your application has been reviewed"
+		Thank you for your interest in Jewelery finacial.
+		Our company has reviewed your application, and it was not approved at this time\\
+	\THEN
+		list the reasoning for unapproved application
+	\BEGIN
+		Brankruptcy\\
+		Foreclosure\\
+		Collection accounts\\
+		Delinquent payments\\
+		High credit card balances\\
+		Too many recent credit inquiries\\
+		Not enough credit history\\
+\IF user meets the <credit score>
+	\THEN 
+		display the following conditions
+	\BEGIN
+		"Congraulation you've been approved"
+	\THEN
+		direct user back to item cart
+\LET 
+	user complete shipping and billing selection
+\THEN
+	after user completes the order
+\IF the conditions is "True"
+	\THEN
+	display "order complete"
+	\THEN
+		<Send user order confirmations>
+	\ELSE 
+		let user complete the order
+\IF user complete the order and close the tab
+	\THEN
+		<automaticaly proceed the payment + address + personal infromation>
+	\THEN
+		complete the order
+\END
+
